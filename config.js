@@ -165,12 +165,12 @@ const CONFIG = {
 					link: 'https://discord.com/app',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Whatsapp',
+					link: 'https://web.whatsapp.com',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Instagram',
+					link: 'https://www.instagram.com',
 				},
 				{
 					name: 'Slack',
